@@ -8,3 +8,4 @@ def rs(s: String): String = {
 def filterStrings(strings: List[String]): List[String] = {
     strings.filter(_.length > 5)
 }
+ val input = List("Scala", "programming", "is", "fun", "and", "productive")
