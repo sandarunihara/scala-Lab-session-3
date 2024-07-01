@@ -23,3 +23,5 @@ val input = List("Scala", "programming", "is", "fun", "and", "productive")
  def sumOfEvens(numbers: List[Int]): Int = {
   numbers.filter(_ % 2 == 0).sum
   }
+
+  val inputn=List(1,2,3,4,5,6)
