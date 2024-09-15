@@ -19,7 +19,7 @@ val input = List("Scala", "programming", "is", "ucsc", "and", "computing")
   } 
 
 
-// 04
+
  def sumOfEvens(numbers: List[Int]): Int = {
   numbers.filter(_ % 2 == 0).sum
   }
