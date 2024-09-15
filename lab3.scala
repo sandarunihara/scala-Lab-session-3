@@ -11,7 +11,6 @@ def filterStrings(strings: List[String]): List[String] = {
 val input = List("Scala", "programming", "is", "ucsc", "and", "computing")
 
 
-// 03
  def calculateMean(num1: Int, num2: Int): Double = {
     val mean = (num1 + num2) / 2.0
     // Round to two decimal places
